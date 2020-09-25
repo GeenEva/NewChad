@@ -1,7 +1,13 @@
 package com.luv2code.jackson.json.demo;
 
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+import com.fasterxml.jackson.annotation.JsonProperty;
+import com.fasterxml.jackson.databind.annotation.JsonPOJOBuilder;
+
 import java.util.List;
 
+
+@JsonIgnoreProperties(ignoreUnknown = true)
 public class Student {
 
     private int id;
