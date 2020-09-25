@@ -12,7 +12,7 @@ public class Driver {
 
             ObjectMapper mapper = new ObjectMapper();
 
-            Student student = mapper.readValue(new File("data/sample-lite.json"), Student.class);
+            Student student = mapper.readValue(new File("jackson-databinding-json-demo/data/sample-lite.json"), Student.class);
 
             System.out.println(student.getId() + " " +  student.getFirstName() + " " + student.getLastName() + student.isActive());
         }
