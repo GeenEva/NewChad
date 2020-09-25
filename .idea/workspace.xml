@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2db9a7b1-d9a8-4abe-b2c1-186ae1fe2422" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/jackson-databinding-json-demo/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jackson-databinding-json-demo/jackson-databind-json-demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-dev-tools-demo/src/main/java/com/luv2code/springboot/demo/mycoolapp/rest/FunRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/02-dev-tools-demo/src/main/java/com/luv2code/springboot/demo/mycoolapp/rest/FunRestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-actuator-demo/src/main/java/com/luv2code/springboot/demo/mycoolapp/rest/FunRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/03-actuator-demo/src/main/java/com/luv2code/springboot/demo/mycoolapp/rest/FunRestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jackson-databinding-json-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jackson-databinding-json-demo/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -7,10 +49,123 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="ProjectId" id="1hztoOZfCyyajS46lOaFNiYNUUg" />
   <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/jackson-databinding-json-demo" />
+      <recent name="$PROJECT_DIR$/jackson-databinding-json-demo/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Driver">
+    <configuration name="Driver (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luv2code.jackson.json.demo.Driver" />
+      <module name="jackson-databind-json-demo-01-processing-json" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luv2code.jackson.json.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luv2code.jackson.json.demo.Driver" />
+      <module name="jackson-databind-json-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luv2code.jackson.json.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Driver" />
+        <item itemvalue="Application.Driver (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2db9a7b1-d9a8-4abe-b2c1-186ae1fe2422" name="Default Changelist" comment="" />
+      <created>1601025922507</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601025922507</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1093" y="422" key="#com.intellij.ide.util.MemberChooser" timestamp="1601026922189">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="1093" y="422" key="#com.intellij.ide.util.MemberChooser/2560.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1601026922189" />
+    <state width="2518" height="409" key="GridCell.Tab.0.bottom" timestamp="1601034007423">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="409" key="GridCell.Tab.0.bottom/2560.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1601034007423" />
+    <state width="2518" height="409" key="GridCell.Tab.0.center" timestamp="1601034007421">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="409" key="GridCell.Tab.0.center/2560.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1601034007421" />
+    <state width="2518" height="409" key="GridCell.Tab.0.left" timestamp="1601034007420">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="409" key="GridCell.Tab.0.left/2560.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1601034007420" />
+    <state width="2518" height="409" key="GridCell.Tab.0.right" timestamp="1601034007422">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="409" key="GridCell.Tab.0.right/2560.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1601034007422" />
+    <state width="2518" height="502" key="GridCell.Tab.1.bottom" timestamp="1601032108234">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="502" key="GridCell.Tab.1.bottom/2560.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1601032108234" />
+    <state width="2518" height="502" key="GridCell.Tab.1.center" timestamp="1601032108234">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="502" key="GridCell.Tab.1.center/2560.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1601032108234" />
+    <state width="2518" height="502" key="GridCell.Tab.1.left" timestamp="1601032108233">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="502" key="GridCell.Tab.1.left/2560.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1601032108233" />
+    <state width="2518" height="502" key="GridCell.Tab.1.right" timestamp="1601032108234">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="502" key="GridCell.Tab.1.right/2560.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1601032108234" />
+    <state x="789" y="370" key="SettingsEditor" timestamp="1601028082995">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="789" y="370" key="SettingsEditor/2560.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1601028082995" />
   </component>
 </project>
