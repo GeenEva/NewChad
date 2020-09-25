@@ -20,12 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2db9a7b1-d9a8-4abe-b2c1-186ae1fe2422" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/jackson-databinding-json-demo/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jackson-databinding-json-demo/jackson-databind-json-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jackson-databinding-json-demo/src/main/java/com/luv2code/jackson/json/demo/Address.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-dev-tools-demo/src/main/java/com/luv2code/springboot/demo/mycoolapp/rest/FunRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/02-dev-tools-demo/src/main/java/com/luv2code/springboot/demo/mycoolapp/rest/FunRestController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-actuator-demo/src/main/java/com/luv2code/springboot/demo/mycoolapp/rest/FunRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/03-actuator-demo/src/main/java/com/luv2code/springboot/demo/mycoolapp/rest/FunRestController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jackson-databinding-json-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jackson-databinding-json-demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jackson-databinding-json-demo/src/main/java/com/luv2code/jackson/json/demo/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/jackson-databinding-json-demo/src/main/java/com/luv2code/jackson/json/demo/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jackson-databinding-json-demo/src/main/java/com/luv2code/jackson/json/demo/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/jackson-databinding-json-demo/src/main/java/com/luv2code/jackson/json/demo/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,26 +125,26 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1093" y="422" key="#com.intellij.ide.util.MemberChooser" timestamp="1601026922189">
+    <state x="1093" y="422" key="#com.intellij.ide.util.MemberChooser" timestamp="1601034886381">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state x="1093" y="422" key="#com.intellij.ide.util.MemberChooser/2560.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1601026922189" />
-    <state width="2518" height="409" key="GridCell.Tab.0.bottom" timestamp="1601034007423">
+    <state x="1093" y="422" key="#com.intellij.ide.util.MemberChooser/2560.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1601034886381" />
+    <state width="2518" height="409" key="GridCell.Tab.0.bottom" timestamp="1601034997370">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="2518" height="409" key="GridCell.Tab.0.bottom/2560.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1601034007423" />
-    <state width="2518" height="409" key="GridCell.Tab.0.center" timestamp="1601034007421">
+    <state width="2518" height="409" key="GridCell.Tab.0.bottom/2560.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1601034997370" />
+    <state width="2518" height="409" key="GridCell.Tab.0.center" timestamp="1601034997369">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="2518" height="409" key="GridCell.Tab.0.center/2560.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1601034007421" />
-    <state width="2518" height="409" key="GridCell.Tab.0.left" timestamp="1601034007420">
+    <state width="2518" height="409" key="GridCell.Tab.0.center/2560.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1601034997369" />
+    <state width="2518" height="409" key="GridCell.Tab.0.left" timestamp="1601034997369">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="2518" height="409" key="GridCell.Tab.0.left/2560.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1601034007420" />
-    <state width="2518" height="409" key="GridCell.Tab.0.right" timestamp="1601034007422">
+    <state width="2518" height="409" key="GridCell.Tab.0.left/2560.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1601034997369" />
+    <state width="2518" height="409" key="GridCell.Tab.0.right" timestamp="1601034997370">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="2518" height="409" key="GridCell.Tab.0.right/2560.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1601034007422" />
+    <state width="2518" height="409" key="GridCell.Tab.0.right/2560.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1601034997370" />
     <state width="2518" height="502" key="GridCell.Tab.1.bottom" timestamp="1601032108234">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
