@@ -20,8 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2db9a7b1-d9a8-4abe-b2c1-186ae1fe2422" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/spring-security-demo-starter/spring-security-demo-01-base-app/src/main/java/com/luv2code/springsecurity/demo/configuration/DemoAppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_0_2_RELEASE.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jackson-databinding-json-demo/src/main/java/com/luv2code/jackson/json/demo/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/jackson-databinding-json-demo/src/main/java/com/luv2code/jackson/json/demo/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-security-demo-starter/spring-security-demo-01-base-app/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-demo-starter/spring-security-demo-01-base-app/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-security-demo-starter/spring-security-demo-01-base-app/spring-security-demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-demo-starter/spring-security-demo-01-base-app/spring-security-demo.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +58,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -123,6 +128,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1035" y="540" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601296290790">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="1035" y="540" key="#com.intellij.fileTypes.FileTypeChooser/2560.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1601296290790" />
     <state x="1093" y="422" key="#com.intellij.ide.util.MemberChooser" timestamp="1601035081616">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
