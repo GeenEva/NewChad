@@ -3,8 +3,8 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/jackson-databinding-json-demo/pom.xml" />
         <option value="$PROJECT_DIR$/solution-code-jackson-databinding-json-demo-01-procesing-json/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-demo-starter/spring-security-demo-01-base-app/pom.xml" />
       </list>
     </option>
   </component>

@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/NewChad.iml" filepath="$PROJECT_DIR$/.idea/NewChad.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jackson-databinding-json-demo/jackson-databind-json-demo.iml" filepath="$PROJECT_DIR$/jackson-databinding-json-demo/jackson-databind-json-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/solution-code-jackson-databinding-json-demo-01-procesing-json/jackson-databind-json-demo-01-processing-json.iml" filepath="$PROJECT_DIR$/solution-code-jackson-databinding-json-demo-01-procesing-json/jackson-databind-json-demo-01-processing-json.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-demo-starter/spring-security-demo-01-base-app/spring-security-demo.iml" filepath="$PROJECT_DIR$/spring-security-demo-starter/spring-security-demo-01-base-app/spring-security-demo.iml" />
     </modules>
   </component>
 </project>

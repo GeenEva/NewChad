@@ -6,13 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="jackson-databind-json-demo" />
         <module name="jackson-databind-json-demo-01-processing-json" />
+        <module name="spring-security-demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="jackson-databind-json-demo" target="1.8" />
       <module name="jackson-databind-json-demo-01-processing-json" target="1.8" />
+      <module name="spring-security-demo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
